@@ -1,8 +1,11 @@
 Book My Seat 🎟️ | Python & MySQL Movie Ticket Reservation System
 
 Book My Seat is a movie ticket reservation application built using Python and MySQL, allowing users to:
+
 ✅ Select movie shows & available seats 🎬
+
 ✅ Reserve seats with real-time updates 🪑
+
 ✅ Receive instant booking confirmations 📩
 
 🔹 Features:
